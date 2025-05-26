@@ -3,6 +3,22 @@ body {
     font-family:Bai Jamjuree ;
 }
 
+#container{
+display: flex;
+}
+
+.cartao{
+    
+}
+
+
+
+
+
+
+
+
+
 footer {
     background-color: black;
     color: antiquewhite;
